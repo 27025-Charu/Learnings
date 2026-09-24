@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threadd", "Threadd\Threadd.csproj", "{19A43A15-7422-45C4-B5FB-6DBB6894048D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A43A15-7422-45C4-B5FB-6DBB6894048D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A43A15-7422-45C4-B5FB-6DBB6894048D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A43A15-7422-45C4-B5FB-6DBB6894048D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A43A15-7422-45C4-B5FB-6DBB6894048D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE6340E-17CD-4395-A6FF-4CFEF649EB53}
+	EndGlobalSection
+EndGlobal

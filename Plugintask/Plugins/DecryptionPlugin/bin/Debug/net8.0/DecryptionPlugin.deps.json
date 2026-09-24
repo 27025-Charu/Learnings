@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DecryptionPlugin/1.0.0": {
+        "dependencies": {
+          "PluginDLLS": "1.0.0"
+        },
+        "runtime": {
+          "DecryptionPlugin.dll": {}
+        }
+      },
+      "PluginDLLS/1.0.0": {
+        "runtime": {
+          "PluginDLLS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecryptionPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PluginDLLS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

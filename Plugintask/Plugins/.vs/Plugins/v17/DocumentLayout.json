@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E613E32E-E0AC-4771-BC08-F6EFA953791E}|Plugins\\Plugins.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\plugins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E613E32E-E0AC-4771-BC08-F6EFA953791E}|Plugins\\Plugins.csproj|solutionrelative:plugins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E613E32E-E0AC-4771-BC08-F6EFA953791E}|Plugins\\Plugins.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\plugins\\plugins.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E613E32E-E0AC-4771-BC08-F6EFA953791E}|Plugins\\Plugins.csproj|solutionrelative:plugins\\plugins.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FD808-5CFE-4720-B3A3-614E5761CAF4}|PlugginDLLS\\PluginDLLS.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\pluggindlls\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FD808-5CFE-4720-B3A3-614E5761CAF4}|PlugginDLLS\\PluginDLLS.csproj|solutionrelative:pluggindlls\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF82C23-14D0-4B65-83A2-140C752D90DA}|EncryptionPluggin\\EncryptionPlugin.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\encryptionpluggin\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF82C23-14D0-4B65-83A2-140C752D90DA}|EncryptionPluggin\\EncryptionPlugin.csproj|solutionrelative:encryptionpluggin\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAEF75D-DD7D-4B15-A9E0-5E8E990D2CE9}|DecryptionPlugin\\DecryptionPlugin.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\decryptionplugin\\decrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAEF75D-DD7D-4B15-A9E0-5E8E990D2CE9}|DecryptionPlugin\\DecryptionPlugin.csproj|solutionrelative:decryptionplugin\\decrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FD808-5CFE-4720-B3A3-614E5761CAF4}|PlugginDLLS\\PluginDLLS.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\pluggindlls\\plugindlls.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{082FD808-5CFE-4720-B3A3-614E5761CAF4}|PlugginDLLS\\PluginDLLS.csproj|solutionrelative:pluggindlls\\plugindlls.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FD808-5CFE-4720-B3A3-614E5761CAF4}|PlugginDLLS\\PluginDLLS.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\pluggindlls\\plugindlls.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{082FD808-5CFE-4720-B3A3-614E5761CAF4}|PlugginDLLS\\PluginDLLS.csproj|solutionrelative:pluggindlls\\plugindlls.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E613E32E-E0AC-4771-BC08-F6EFA953791E}|Plugins\\Plugins.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\plugins\\plugins.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E613E32E-E0AC-4771-BC08-F6EFA953791E}|Plugins\\Plugins.csproj|solutionrelative:plugins\\plugins.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF82C23-14D0-4B65-83A2-140C752D90DA}|EncryptionPluggin\\EncryptionPlugin.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\encryptionpluggin\\encryptionplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2BF82C23-14D0-4B65-83A2-140C752D90DA}|EncryptionPluggin\\EncryptionPlugin.csproj|solutionrelative:encryptionpluggin\\encryptionplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAEF75D-DD7D-4B15-A9E0-5E8E990D2CE9}|DecryptionPlugin\\DecryptionPlugin.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\plugintask\\plugins\\decryptionplugin\\decryptionplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4AAEF75D-DD7D-4B15-A9E0-5E8E990D2CE9}|DecryptionPlugin\\DecryptionPlugin.csproj|solutionrelative:decryptionplugin\\decryptionplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PluginDLLS.csproj",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\PlugginDLLS\\PluginDLLS.csproj",
+              "RelativeDocumentMoniker": "PlugginDLLS\\PluginDLLS.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\PlugginDLLS\\PluginDLLS.csproj",
+              "RelativeToolTip": "PlugginDLLS\\PluginDLLS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T04:42:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plugins.csproj",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\Plugins\\Plugins.csproj",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\Plugins\\Plugins.csproj",
+              "RelativeToolTip": "Plugins\\Plugins.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T03:53:59.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Decrypt.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\DecryptionPlugin\\Decrypt.cs",
+              "RelativeDocumentMoniker": "DecryptionPlugin\\Decrypt.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\DecryptionPlugin\\Decrypt.cs",
+              "RelativeToolTip": "DecryptionPlugin\\Decrypt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T03:42:17.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DecryptionPlugin",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\DecryptionPlugin\\DecryptionPlugin.csproj",
+              "RelativeDocumentMoniker": "DecryptionPlugin\\DecryptionPlugin.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\DecryptionPlugin\\DecryptionPlugin.csproj",
+              "RelativeToolTip": "DecryptionPlugin\\DecryptionPlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T03:42:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionPlugin",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\EncryptionPluggin\\EncryptionPlugin.csproj",
+              "RelativeDocumentMoniker": "EncryptionPluggin\\EncryptionPlugin.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\EncryptionPluggin\\EncryptionPlugin.csproj",
+              "RelativeToolTip": "EncryptionPluggin\\EncryptionPlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T03:41:52.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encrypt.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\EncryptionPluggin\\Encrypt.cs",
+              "RelativeDocumentMoniker": "EncryptionPluggin\\Encrypt.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\EncryptionPluggin\\Encrypt.cs",
+              "RelativeToolTip": "EncryptionPluggin\\Encrypt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T03:41:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\PlugginDLLS\\IPlugin.cs",
+              "RelativeDocumentMoniker": "PlugginDLLS\\IPlugin.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\PlugginDLLS\\IPlugin.cs",
+              "RelativeToolTip": "PlugginDLLS\\IPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T03:41:04.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\Plugins\\Program.cs",
+              "RelativeDocumentMoniker": "Plugins\\Program.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\Plugins\\Program.cs",
+              "RelativeToolTip": "Plugins\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T03:38:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Plugins",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\Plugins\\Plugins.csproj",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\Plugins\\Plugins.csproj",
+              "RelativeToolTip": "Plugins\\Plugins.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T03:54:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PluginDLLS",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\PlugginDLLS\\PluginDLLS.csproj",
+              "RelativeDocumentMoniker": "PlugginDLLS\\PluginDLLS.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Plugintask\\Plugins\\PlugginDLLS\\PluginDLLS.csproj",
+              "RelativeToolTip": "PlugginDLLS\\PluginDLLS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T04:54:15.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

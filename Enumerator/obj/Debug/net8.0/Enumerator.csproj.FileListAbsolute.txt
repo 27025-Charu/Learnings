@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\bin\Debug\net8.0\Enumerator.exe
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\bin\Debug\net8.0\Enumerator.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\bin\Debug\net8.0\Enumerator.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\bin\Debug\net8.0\Enumerator.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\bin\Debug\net8.0\Enumerator.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\Enumerator.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\Enumerator.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\Enumerator.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\refint\Enumerator.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\Enumerator.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\Enumerator.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Enumerator\obj\Debug\net8.0\ref\Enumerator.dll

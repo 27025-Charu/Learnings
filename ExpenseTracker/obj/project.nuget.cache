@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvntoSWLYSw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\ExpenseTracker\\ExpenseTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charu.subbian\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\10.0.8\\microsoft.bcl.asyncinterfaces.10.0.8.nupkg.sha512",
+    "C:\\Users\\charu.subbian\\.nuget\\packages\\microsoft.bcl.timeprovider\\10.0.8\\microsoft.bcl.timeprovider.10.0.8.nupkg.sha512",
+    "C:\\Users\\charu.subbian\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\charu.subbian\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512",
+    "C:\\Users\\charu.subbian\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\charu.subbian\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

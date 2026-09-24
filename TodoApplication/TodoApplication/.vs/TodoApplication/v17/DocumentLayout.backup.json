@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\repository\\jsontaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\jsontaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\repository\\jsonuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\jsonuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\view\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\view\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\view\\masterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\view\\masterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\view\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\view\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\services\\userauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\services\\userauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\model\\recurrence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\model\\recurrence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\model\\storagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\model\\storagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\todoapplication\\todoapplication\\todoapplication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73B9658-F7CB-4F6F-9985-390036373093}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\UserView.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\View\\UserView.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\UserView.cs",
+              "RelativeToolTip": "TodoApplication\\View\\UserView.cs",
+              "ViewState": "AgIAADkBAAAAchzHcRwjwDABAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:18:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\TaskRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:13:55.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskView.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\TaskView.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\View\\TaskView.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\TaskView.cs",
+              "RelativeToolTip": "TodoApplication\\View\\TaskView.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:18:59.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Services\\TaskService.cs",
+              "RelativeToolTip": "TodoApplication\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:12:24.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\View\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\ConsoleHelper.cs",
+              "RelativeToolTip": "TodoApplication\\View\\ConsoleHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T11:06:06.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:09:44.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\JsonUserRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\JsonUserRepository.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\JsonUserRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\JsonUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:42:12.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\JsonTaskRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\JsonTaskRepository.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\JsonTaskRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\JsonTaskRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwHsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T11:34:39.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Helper.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Helper.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Helper.cs",
+              "RelativeToolTip": "TodoApplication\\Helper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:19:03.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MasterView.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\MasterView.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\View\\MasterView.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\View\\MasterView.cs",
+              "RelativeToolTip": "TodoApplication\\View\\MasterView.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:19:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Model\\Todo.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\Todo.cs",
+              "RelativeToolTip": "TodoApplication\\Model\\Todo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T11:07:49.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\ITaskRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\ITaskRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:13:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Program.cs",
+              "RelativeToolTip": "TodoApplication\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:19:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Services\\UserAuthServices.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Services\\UserAuthServices.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Services\\UserAuthServices.cs",
+              "RelativeToolTip": "TodoApplication\\Services\\UserAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:12:24.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recurrence.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\Recurrence.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Model\\Recurrence.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\Recurrence.cs",
+              "RelativeToolTip": "TodoApplication\\Model\\Recurrence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:11:35.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:09:42.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StorageType.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\StorageType.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Model\\StorageType.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\StorageType.cs",
+              "RelativeToolTip": "TodoApplication\\Model\\StorageType.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:38:49.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\TodoApplication\\TodoApplication\\TodoApplication\\Model\\User.cs",
+              "RelativeToolTip": "TodoApplication\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:40:26.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

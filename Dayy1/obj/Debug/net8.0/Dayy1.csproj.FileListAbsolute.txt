@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\bin\Debug\net8.0\Dayy1.exe
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\bin\Debug\net8.0\Dayy1.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\bin\Debug\net8.0\Dayy1.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\bin\Debug\net8.0\Dayy1.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\bin\Debug\net8.0\Dayy1.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\Dayy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\Dayy1.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\Dayy1.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\Dayy1.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\Dayy1.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\refint\Dayy1.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\Dayy1.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\Dayy1.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Dayy1\obj\Debug\net8.0\ref\Dayy1.dll

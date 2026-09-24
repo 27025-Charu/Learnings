@@ -1,0 +1,15 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\bin\Debug\net8.0\EncryptionPlugin.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\bin\Debug\net8.0\EncryptionPlugin.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\bin\Debug\net8.0\EncryptionPlugin.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\bin\Debug\net8.0\PluginDLLS.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\bin\Debug\net8.0\PluginDLLS.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\EncryptionPlugin.csproj.AssemblyReference.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\EncryptionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\EncryptionPlugin.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\EncryptionPlugin.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\EncryptionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\Encrypti.503B4844.Up2Date
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\EncryptionPlugin.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\refint\EncryptionPlugin.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\EncryptionPlugin.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\EncryptionPluggin\obj\Debug\net8.0\ref\EncryptionPlugin.dll

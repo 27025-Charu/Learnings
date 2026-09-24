@@ -1,0 +1,17 @@
+[
+  {
+    "EmployeeId": "1",
+    "Password": "1",
+    "Name": "1"
+  },
+  {
+    "EmployeeId": "001",
+    "Password": "1234",
+    "Name": "Charu"
+  },
+  {
+    "EmployeeId": "EMP001",
+    "Password": "12",
+    "Name": "1245"
+  }
+]

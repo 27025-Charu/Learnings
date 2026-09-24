@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\bin\Debug\net8.0\CarWash.exe
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\bin\Debug\net8.0\CarWash.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\bin\Debug\net8.0\CarWash.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\bin\Debug\net8.0\CarWash.dll
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\bin\Debug\net8.0\CarWash.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\CarWash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\CarWash.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\CarWash.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\CarWash.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\CarWash.dll
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\refint\CarWash.dll
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\CarWash.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\CarWash.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\CarWash\obj\Debug\net8.0\ref\CarWash.dll

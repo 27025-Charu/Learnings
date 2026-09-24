@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\student\\student\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|solutionrelative:student\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\student\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|solutionrelative:student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\student\\student\\ibird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|solutionrelative:student\\ibird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\student\\student\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|solutionrelative:student\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F918C5-FAF5-4265-934F-FE67F772327A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\student\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F918C5-FAF5-4265-934F-FE67F772327A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\student\\student\\student.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29D0DB5E-28BD-4C7B-8EEC-4D5C087DF97B}|Student\\Student.csproj|solutionrelative:student\\student.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Print.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\Print.cs",
+              "RelativeDocumentMoniker": "Student\\Print.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\Print.cs",
+              "RelativeToolTip": "Student\\Print.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:46:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Student\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\ConsoleHelper.cs",
+              "RelativeToolTip": "Student\\ConsoleHelper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:27:20.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBird.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\IBird.cs",
+              "RelativeDocumentMoniker": "Student\\IBird.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\IBird.cs",
+              "RelativeToolTip": "Student\\IBird.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:10:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.csproj",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\Student.csproj",
+              "RelativeDocumentMoniker": "Student\\Student.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\Student.csproj",
+              "RelativeToolTip": "Student\\Student.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-25T04:27:03.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T04:26:58.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\Program.cs",
+              "RelativeDocumentMoniker": "Student\\Program.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\Student\\Student\\Program.cs",
+              "RelativeToolTip": "Student\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T04:26:19.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

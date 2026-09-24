@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\bin\Debug\net8.0\Linqq.exe
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\bin\Debug\net8.0\Linqq.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\bin\Debug\net8.0\Linqq.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\bin\Debug\net8.0\Linqq.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\bin\Debug\net8.0\Linqq.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\Linqq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\Linqq.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\Linqq.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\Linqq.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\Linqq.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\refint\Linqq.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\Linqq.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\Linqq.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Linqq\obj\Debug\net8.0\ref\Linqq.dll

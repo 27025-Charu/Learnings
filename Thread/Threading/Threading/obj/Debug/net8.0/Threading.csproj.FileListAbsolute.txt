@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\bin\Debug\net8.0\Threading.exe
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\bin\Debug\net8.0\Threading.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\bin\Debug\net8.0\Threading.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\bin\Debug\net8.0\Threading.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\bin\Debug\net8.0\Threading.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\Threading.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\refint\Threading.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\Threading.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\Threading.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Thread\Threading\Threading\obj\Debug\net8.0\ref\Threading.dll

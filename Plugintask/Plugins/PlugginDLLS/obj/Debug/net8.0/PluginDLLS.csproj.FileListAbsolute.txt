@@ -1,0 +1,11 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\bin\Debug\net8.0\PluginDLLS.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\bin\Debug\net8.0\PluginDLLS.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\bin\Debug\net8.0\PluginDLLS.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\PluginDLLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\PluginDLLS.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\PluginDLLS.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\PluginDLLS.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\PluginDLLS.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\refint\PluginDLLS.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\PluginDLLS.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Plugintask\Plugins\PlugginDLLS\obj\Debug\net8.0\ref\PluginDLLS.dll

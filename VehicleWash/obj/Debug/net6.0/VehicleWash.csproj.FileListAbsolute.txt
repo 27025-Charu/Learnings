@@ -1,0 +1,28 @@
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\VehicleWash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\VehicleWash.AssemblyInfoInputs.cache
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\VehicleWash.AssemblyInfo.cs
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\VehicleWash.csproj.CoreCompileInputs.cache
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net6.0\VehicleWash.exe
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net6.0\VehicleWash.deps.json
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net6.0\VehicleWash.runtimeconfig.json
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net6.0\VehicleWash.dll
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net6.0\VehicleWash.pdb
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\VehicleWash.dll
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\refint\VehicleWash.dll
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\VehicleWash.pdb
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\VehicleWash.genruntimeconfig.cache
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net6.0\ref\VehicleWash.dll
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\bin\Debug\net6.0\VehicleWash.exe
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\bin\Debug\net6.0\VehicleWash.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\bin\Debug\net6.0\VehicleWash.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\bin\Debug\net6.0\VehicleWash.dll
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\bin\Debug\net6.0\VehicleWash.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\VehicleWash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\VehicleWash.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\VehicleWash.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\VehicleWash.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\VehicleWash.dll
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\refint\VehicleWash.dll
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\VehicleWash.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\VehicleWash.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\VehicleWash\obj\Debug\net6.0\ref\VehicleWash.dll

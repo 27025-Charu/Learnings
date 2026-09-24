@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\bin\Debug\net8.0\Delegatess.exe
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\bin\Debug\net8.0\Delegatess.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\bin\Debug\net8.0\Delegatess.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\bin\Debug\net8.0\Delegatess.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\bin\Debug\net8.0\Delegatess.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\Delegatess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\Delegatess.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\Delegatess.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\Delegatess.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\Delegatess.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\refint\Delegatess.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\Delegatess.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\Delegatess.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Delegatess\obj\Debug\net8.0\ref\Delegatess.dll

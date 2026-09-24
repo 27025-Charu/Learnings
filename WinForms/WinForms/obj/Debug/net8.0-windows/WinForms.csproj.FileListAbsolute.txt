@@ -1,0 +1,16 @@
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\bin\Debug\net8.0-windows\WinForms.exe
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\bin\Debug\net8.0-windows\WinForms.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\bin\Debug\net8.0-windows\WinForms.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\bin\Debug\net8.0-windows\WinForms.dll
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\bin\Debug\net8.0-windows\WinForms.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.Form1.resources
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.GenerateResource.cache
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.dll
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\refint\WinForms.dll
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\WinForms.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\WinForms\WinForms\obj\Debug\net8.0-windows\ref\WinForms.dll

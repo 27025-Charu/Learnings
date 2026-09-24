@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\bin\Debug\net6.0\Structt.exe
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\bin\Debug\net6.0\Structt.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\bin\Debug\net6.0\Structt.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\bin\Debug\net6.0\Structt.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\bin\Debug\net6.0\Structt.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\Structt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\Structt.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\Structt.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\Structt.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\Structt.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\refint\Structt.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\Structt.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\Structt.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Structt\obj\Debug\net6.0\ref\Structt.dll

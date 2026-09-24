@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\CustomCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\CustomCollections.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\CustomCollections.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\CustomCollections.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\bin\Debug\net8.0\CustomCollections.exe
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\bin\Debug\net8.0\CustomCollections.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\bin\Debug\net8.0\CustomCollections.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\bin\Debug\net8.0\CustomCollections.dll
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\bin\Debug\net8.0\CustomCollections.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\CustomCollections.dll
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\refint\CustomCollections.dll
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\CustomCollections.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\CustomCollections.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\ListEventHandler\CustomCollections\obj\Debug\net8.0\ref\CustomCollections.dll

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="PluginFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PlugginDLLS\PluginDLLS.csproj" ReferenceOutputAssembly="true" OutputItemType="PluginOutput" />
+  </ItemGroup>
+
+  <Target Name="CopyPlugins" AfterTargets="Build">
+    <ItemGroup>
+      <PluginFiles Include="@(PluginOutput)" Condition="'%(Extension)' == '.dll'" />
+    </ItemGroup>
+
+    <MakeDir Directories="$(MSBuildProjectDirectory)\PluginFiles" />
+    <Copy SourceFiles="@(PluginFiles)" DestinationFolder="$(MSBuildProjectDirectory)\PluginFiles" SkipUnchangedFiles="true" />
+  </Target>
+
+</Project>

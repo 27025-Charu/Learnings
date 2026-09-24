@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\bin\Release\net8.0\Debugging.exe
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\bin\Release\net8.0\Debugging.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\bin\Release\net8.0\Debugging.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\bin\Release\net8.0\Debugging.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\bin\Release\net8.0\Debugging.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\Debugging.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\Debugging.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\refint\Debugging.dll
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\Debugging.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\Debugging.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Debug\Debugging\Debugging\obj\Release\net8.0\ref\Debugging.dll

@@ -1,0 +1,18 @@
+D:\Charu\VSS_WS\Assignment3\VehicleWash\obj\Debug\net10.0\VehicleWash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charu\VSS_WS\Assignment3\VehicleWash\obj\Debug\net10.0\VehicleWash.AssemblyInfoInputs.cache
+D:\Charu\VSS_WS\Assignment3\VehicleWash\obj\Debug\net10.0\VehicleWash.AssemblyInfo.cs
+D:\Charu\VSS_WS\Assignment3\VehicleWash\obj\Debug\net10.0\VehicleWash.csproj.CoreCompileInputs.cache
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net10.0\VehicleWash.exe
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net10.0\VehicleWash.deps.json
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net10.0\VehicleWash.runtimeconfig.json
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net10.0\VehicleWash.dll
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\bin\Debug\net10.0\VehicleWash.pdb
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\VehicleWash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\VehicleWash.AssemblyInfoInputs.cache
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\VehicleWash.AssemblyInfo.cs
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\VehicleWash.csproj.CoreCompileInputs.cache
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\VehicleWash.dll
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\refint\VehicleWash.dll
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\VehicleWash.pdb
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\VehicleWash.genruntimeconfig.cache
+D:\Charu\VSS_WS\VehicleWash 1\VehicleWash\obj\Debug\net10.0\ref\VehicleWash.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\studentmanager\\studentmanager\\view\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\view\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\studentmanager\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\studentmanager\\studentmanager\\services\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\services\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\studentmanager\\studentmanager\\studentmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\studentmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\studentmanager\\studentmanager\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|c:\\users\\charu.subbian\\viscom_ws\\training\\studentmanager\\studentmanager\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4E38BE-9F27-4FB7-AEAB-F30EA3B3E334}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\View\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "StudentManager\\View\\ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\View\\ConsoleUI.cs",
+              "RelativeToolTip": "StudentManager\\View\\ConsoleUI.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T07:25:47.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Studentmanager.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Services\\Studentmanager.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Services\\Studentmanager.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Services\\Studentmanager.cs",
+              "RelativeToolTip": "StudentManager\\Services\\Studentmanager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T07:13:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Repo\\Repository.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Repo\\Repository.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Repo\\Repository.cs",
+              "RelativeToolTip": "StudentManager\\Repo\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T06:57:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Model\\Student.cs",
+              "RelativeToolTip": "StudentManager\\Model\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T06:52:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentManager",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\StudentManager.csproj",
+              "RelativeDocumentMoniker": "StudentManager\\StudentManager.csproj",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\StudentManager.csproj",
+              "RelativeToolTip": "StudentManager\\StudentManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-18T06:52:13.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Program.cs",
+              "ToolTip": "C:\\Users\\charu.subbian\\Viscom_ws\\Training\\StudentManager\\StudentManager\\Program.cs*",
+              "RelativeToolTip": "StudentManager\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T06:47:15.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

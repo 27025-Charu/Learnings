@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\bin\Debug\net8.0\FileHandlingDemo.exe
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\bin\Debug\net8.0\FileHandlingDemo.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\bin\Debug\net8.0\FileHandlingDemo.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\bin\Debug\net8.0\FileHandlingDemo.dll
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\bin\Debug\net8.0\FileHandlingDemo.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\FileHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\FileHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\FileHandlingDemo.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\FileHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\FileHandlingDemo.dll
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\refint\FileHandlingDemo.dll
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\FileHandlingDemo.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\FileHandlingDemo.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandlingDemo\obj\Debug\net8.0\ref\FileHandlingDemo.dll

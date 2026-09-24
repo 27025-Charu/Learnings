@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\bin\Debug\net8.0\JsonFileHandling.exe
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\bin\Debug\net8.0\JsonFileHandling.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\bin\Debug\net8.0\JsonFileHandling.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\bin\Debug\net8.0\JsonFileHandling.dll
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\bin\Debug\net8.0\JsonFileHandling.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\JsonFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\JsonFileHandling.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\JsonFileHandling.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\JsonFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\JsonFileHandling.dll
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\refint\JsonFileHandling.dll
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\JsonFileHandling.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\JsonFileHandling.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\FileHandling\JsonFileHandling\obj\Debug\net8.0\ref\JsonFileHandling.dll

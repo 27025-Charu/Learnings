@@ -1,0 +1,14 @@
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\bin\Debug\net8.0\TicTacToee.exe
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\bin\Debug\net8.0\TicTacToee.deps.json
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\bin\Debug\net8.0\TicTacToee.runtimeconfig.json
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\bin\Debug\net8.0\TicTacToee.dll
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\bin\Debug\net8.0\TicTacToee.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\TicTacToee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\TicTacToee.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\TicTacToee.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\TicTacToee.csproj.CoreCompileInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\TicTacToee.dll
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\refint\TicTacToee.dll
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\TicTacToee.pdb
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\TicTacToee.genruntimeconfig.cache
+C:\Users\charu.subbian\Viscom_ws\Training\TicTacToee\obj\Debug\net8.0\ref\TicTacToee.dll

@@ -1,0 +1,4 @@
+C:\Users\charu.subbian\Viscom_ws\Training\Threading\ThreadExecution\obj\Debug\net8.0\ThreadExecution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.subbian\Viscom_ws\Training\Threading\ThreadExecution\obj\Debug\net8.0\ThreadExecution.AssemblyInfoInputs.cache
+C:\Users\charu.subbian\Viscom_ws\Training\Threading\ThreadExecution\obj\Debug\net8.0\ThreadExecution.AssemblyInfo.cs
+C:\Users\charu.subbian\Viscom_ws\Training\Threading\ThreadExecution\obj\Debug\net8.0\ThreadExecution.csproj.CoreCompileInputs.cache
